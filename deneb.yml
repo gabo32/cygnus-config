@@ -8,5 +8,5 @@ eureka:
 
 cygnus:  
   sadr:
-    name: sadr-service
+    name: sadr
     pingUrl: http://${cygnus.sadr.name}/sadr/ping/
